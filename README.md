@@ -214,15 +214,49 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
 
 ## 🎓 Education
 
-I hold a Master of Science in Management from ESMT Berlin, with a specialization in Innovative Management and Global Digital Strategy, and a Bachelor of Computer Science from BINUS University.
+<div align="center">
 
-I’ve also completed certifications including:
-- Certified Scrum Master.
-- Certified Scrum Product Owner.
-- Google Project Management.
-- Google UX Design.
-- AI Product Manager.
-- Generative AI Leader.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎓 Master of Science in Management</b><br/>
+      <sub>ESMT Berlin</sub><br/><br/>
+      Specialization in <b>Innovative Management</b> and <b>Global Digital Strategy</b>.<br/><br/>
+      <img src="https://img.shields.io/badge/Management-ESMT%20Berlin-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Digital%20Strategy-Innovation-2E86DE?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>💻 Bachelor of Computer Science</b><br/>
+      <sub>BINUS University</sub><br/><br/>
+      Built a strong foundation in <b>computer science</b>, <b>problem solving</b>, and <b>technical thinking</b>.<br/><br/>
+      <img src="https://img.shields.io/badge/Computer%20Science-BINUS%20University-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Technical%20Foundation-Problem%20Solving-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://bcert.me/bc/html/show-badge.html?b=cnayuose">
+    <img src="https://img.shields.io/badge/Certified-Scrum%20Master-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://bcert.me/bc/html/show-badge.html?b=tphciwco">
+    <img src="https://img.shields.io/badge/Certified-Scrum%20Product%20Owner-2E86DE?style=for-the-badge" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/03T65Z4U1LQS">
+    <img src="https://img.shields.io/badge/Certified-Google%20Project%20Management-16A085?style=for-the-badge" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/OWDFRQZLLBR5">
+    <img src="https://img.shields.io/badge/Certified-Google%20UX%20Design-6C5CE7?style=for-the-badge" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/K0IMRDQQ52OP">
+    <img src="https://img.shields.io/badge/Certified-AI%20Product%20Manager-D35400?style=for-the-badge" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/3ZWIBO5FF8PH">
+    <img src="https://img.shields.io/badge/Certified-Generative%20AI%20Leader-8E44AD?style=for-the-badge" />
+  </a>
+</p>
+
+</div>
 
 ---
 
