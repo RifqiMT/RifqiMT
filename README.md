@@ -167,6 +167,41 @@ That kind of work matters to me because strong product cultures are built throug
 
 ---
 
+## ✨ Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://country-analytics-platform.vercel.app/">
+          <img src="https://img.shields.io/badge/📊%20Country%20Analytics%20Platform-Live%20App-0A66C2?style=for-the-badge" />
+        </a>
+      </div>
+      <br/>
+      <b>Country Analytics Platform</b><br/>
+      A deployed analytics platform built to support country-level insights and decision-making.<br/><br/>
+      <span>🔎 Explore • 📈 Compare • 🎯 Act</span><br/><br/>
+      <a href="https://country-analytics-platform.vercel.app/">🔗 Open live app</a><br/>
+      <a href="https://rifqi-tjahyono.com/%f0%9f%9a%80-country-analytics-sidekick-country-analysis-pestel-porters-without-the-spreadsheet-sweat-%f0%9f%92%bc%e2%9c%a8/">📝 Read article</a>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://working-hours-tracker-mu.vercel.app/">
+          <img src="https://img.shields.io/badge/⏱️%20Working%20Hours%20Tracker-Live%20App-2E86DE?style=for-the-badge" />
+        </a>
+      </div>
+      <br/>
+      <b>Working Hours Tracker</b><br/>
+      A deployed tool for tracking working hours more clearly and consistently.<br/><br/>
+      <span>🕒 Track • 🧭 Structure • ✅ Plan</span><br/><br/>
+      <a href="https://working-hours-tracker-mu.vercel.app/">🔗 Open live app</a><br/>
+      <a href="https://rifqi-tjahyono.com/%f0%9f%93%88-from-time-gut-feeling-to-time-based-insights-the-working-hours-tracker-%f0%9f%93%85%f0%9f%a7%a0/">📝 Read article</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub stats
 
 
@@ -178,13 +213,45 @@ That kind of work matters to me because strong product cultures are built throug
 
 ## 🌍 Languages
 
-- Indonesian — Native.
-- English — Advanced.
-- German — Intermediate.
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <div>🇮🇩</div>
+        <b>Indonesian</b><br/>
+        <sub>Native</sub>
+      </td>
+      <td align="center" width="180">
+        <div>🇬🇧</div>
+        <b>English</b><br/>
+        <sub>Advanced</sub>
+      </td>
+      <td align="center" width="180">
+        <div>🇩🇪</div>
+        <b>German</b><br/>
+        <sub>Intermediate</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ---
 
 ## 📫 Connect with me
 
-- Website: [rifqi-tjahyono.com](https://rifqi-tjahyono.com)
-- LinkedIn: [rifqi-tjahjono](https://www.linkedin.com/in/rifqi-tjahjono/)
+<p align="center">
+  <a href="https://rifqi-tjahyono.com">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Website-Explore%20my%20work-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/rifqi-tjahjono/">
+    <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-Let%E2%80%99s%20connect-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:rifqi.tjahyono.product.specialist@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-Me%20directly-D14836?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Open to product conversations, collaboration, and interesting problems.</sub>
+</p>
