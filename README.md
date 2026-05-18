@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=780&lines=I+build+products+at+the+intersection+of+strategy%2C+data%2C+engineering%2C+and+UX;I+care+about+clarity%2C+execution%2C+and+measurable+impact;I+enjoy+turning+complex+problems+into+simple%2C+scalable+solutions" alt="Typing SVG" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://rifqi-tjahyono.com"><img src="https://img.shields.io/badge/🌐%20Website-rifqi--tjahyono.com-0A66C2?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/rifqi-tjahjono/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Rifqi%20Tjahyono-0A66C2?style=for-the-badge" /></a>
   <a href="https://github.com/RifqiMT"><img src="https://img.shields.io/badge/🐙%20GitHub-Profile-181717?style=for-the-badge" /></a>
@@ -135,6 +135,76 @@
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## 🏭 Industries
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚍 Mobility</b><br/><br/>
+      Flix and other large-scale transportation environments with multi-market operations.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-Flix-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI & automation</b><br/><br/>
+      AI-powered workflows, proctoring, document processing, and operational automation.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-Amanin-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛒 E-commerce & retail</b><br/><br/>
+      Commercial analytics, reporting, and optimization for retail-facing and marketplace contexts.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-Wayfair-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🍵 Consumer goods & F&B</b><br/><br/>
+      Brand strategy, sourcing, growth, and partnerships for consumer-focused businesses.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-Teanology-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏢 Consulting & corporate innovation</b><br/><br/>
+      Transformation, strategy, and execution work in complex organizations and innovation programs.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-IDeA Foundation- D35400?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🎓 Education & community</b><br/><br/>
+      AIESEC, and community-building initiatives focused on learning and growth.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-AIESEC%20%26%20IDeA%20Foundation-8E44AD?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚗 Automotive</b><br/><br/>
+      Innovation experience from Daimler in a highly engineered, global environment.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-Daimler-2C3E50?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🚀 Startup & digital product</b><br/><br/>
+      Product building in fast-moving, experiment-driven environments with strong execution needs.<br/><br/>
+      <img src="https://img.shields.io/badge/Companies-Sangkuriang%20Internasional%20%26%20Amanin-7F8C8D?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Industry-Mobility-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-AI%20%26%20Automation-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-E%20Commerce-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-F%26B-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-Consulting-D35400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-Education-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-Automotive-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Industry-Startups-7F8C8D?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -558,6 +628,52 @@
   <img src="https://streak-stats.demolab.com/?user=RifqiMT&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Backend & cloud</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <b>Data & analytics</b><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Product & automation</b><br/><br/>
+      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twilio%20Flex-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI%20Workflows-D35400?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>Frontend & foundations</b><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Product%20%26%20Data-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Backend%20%2B%20Analytics-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Kubernetes-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-AI%20%26%20Workflows-6C5CE7?style=for-the-badge" />
+</p>
+
 </div>
 
 ---
@@ -571,17 +687,17 @@
     <td align="center" width="180">
       <div>🇮🇩</div>
       <b>Indonesian</b><br/>
-      <sub>Native</sub>
+      <sub>Native (C2)</sub>
     </td>
     <td align="center" width="180">
       <div>🇬🇧</div>
       <b>English</b><br/>
-      <sub>Advanced</sub>
+      <sub>Advanced (C1)</sub>
     </td>
     <td align="center" width="180">
       <div>🇩🇪</div>
       <b>German</b><br/>
-      <sub>Intermediate</sub>
+      <sub>Intermediate (B1/B2)</sub>
     </td>
   </tr>
 </table>
@@ -609,3 +725,49 @@
 <p align="center">
   <sub>Open to product conversations, collaboration, and interesting problems.</sub>
 </p>
+
+---
+
+## 🌟 References
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>👔 Executive colleague</b><br/><br/>
+      “Rifqi consistently brings clarity to complex problems and aligns cross-functional teams around practical outcomes.”<br/><br/>
+      <img src="https://img.shields.io/badge/Reference-Strategic%20Clarity-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🧭 Direct manager</b><br/><br/>
+      “Rifqi is one of the most dependable product professionals I’ve worked with. He communicates clearly and makes sound decisions.”<br/><br/>
+      <img src="https://img.shields.io/badge/Reference-Dependable%20Execution-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤝 Cross-functional stakeholder</b><br/><br/>
+      “Rifqi stands out for his ability to turn ambiguity into structure and keep teams aligned.”<br/><br/>
+      <img src="https://img.shields.io/badge/Reference-Team%20Alignment-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>⭐ Senior peer</b><br/><br/>
+      “Working with Rifqi is always productive because he connects product, data, and engineering in an effective way.”<br/><br/>
+      <img src="https://img.shields.io/badge/Reference-Cross--Functional%20Impact-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://rifqi-tjahyono.com/reference/"><img src="https://img.shields.io/badge/Explore-Professional%20Reference-0A66C2?style=for-the-badge" /></a>
+  <a href="https://rifqi-tjahyono.com/about-me/"><img src="https://img.shields.io/badge/About-Profile%20Context-2E86DE?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Signal-Trusted%20by%20Peers-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Signal-High%20Credibility-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Signal-Cross--Functional-D35400?style=for-the-badge" />
+</p>
+
+</div>
