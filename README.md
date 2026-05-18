@@ -382,7 +382,7 @@
       <img src="https://img.shields.io/badge/AWS-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Kafka-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Kubernetes-16A085?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Unity-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Docker-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Technical%20Collaboration-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
@@ -392,6 +392,7 @@
       <img src="https://img.shields.io/badge/NICE%20WFM-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Streamlit-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Unity-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/AI--Powered%20Solutions-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Process%20Optimization-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Operations%20Improvement-6C5CE7?style=for-the-badge" />
