@@ -1,4 +1,4 @@
-# Hi, I'm Rifqi Tjahjono 👋
+# Hi, I'm Rifqi Tjahyono 👋
 
 ### 🧭 Product & Data Leader | 🛠️ Fullstack Product Builder | 🤖 AI-Driven Problem Solver
 
@@ -7,9 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://rifqi-tjahyono.com"><img src="https://img.shields.io/badge/🌐%20Website-rifqi--tjahyono.com-0A66C2?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/rifqi-tjahjono/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Rifqi%20Tjahyono-0A66C2?style=for-the-badge" /></a>
-  <a href="https://github.com/RifqiMT"><img src="https://img.shields.io/badge/🐙%20GitHub-Profile-181717?style=for-the-badge" /></a>
+  <a href="https://rifqi-tjahyono.com">
+    <img src="https://img.shields.io/badge/Website-rifqi--tjahyono.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rifqi-tjahjono/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rifqi%20Tjahyono-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RifqiMT">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 </div>
