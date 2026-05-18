@@ -382,12 +382,13 @@
       <img src="https://img.shields.io/badge/AWS-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Kafka-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Kubernetes-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Unity-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Technical%20Collaboration-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
       <b>⚙️ Enterprise & automation</b><br/><br/>
       <img src="https://img.shields.io/badge/Salesforce-6C5CE7?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Twilio%20Flex-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Twilio-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/NICE%20WFM-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Streamlit-6C5CE7?style=for-the-badge" />
@@ -656,7 +657,7 @@
     <td width="50%" valign="top">
       <b>Product & automation</b><br/><br/>
       <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-      <img src="https://img.shields.io/badge/Twilio%20Flex-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
       <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
       <img src="https://img.shields.io/badge/AI%20Workflows-D35400?style=for-the-badge" />
