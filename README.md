@@ -169,10 +169,6 @@ That kind of work matters to me because strong product cultures are built throug
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifqiMT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="RifqiMT GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifqiMT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="RifqiMT top languages" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RifqiMT&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
