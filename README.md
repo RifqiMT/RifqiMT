@@ -1,103 +1,190 @@
-# 👋 Rifqi Tjahyono
+<div align="center">
 
-## Product & Data Leader | Full‑Stack Product Builder
+# Hi, I'm Rifqi Tjahjono 👋
 
-I’m a **Product Owner & Tech‑Facing PM** with 10+ years of experience building and shipping **AI‑driven products**, **data platforms**, and **agent‑centric internal tools** across mobility, e‑commerce, and AI‑enabled startups.
+### Product & Data Leader | Fullstack Product Builder | AI-Driven Problem Solver
 
-At **Flix SE** (Berlin), I lead an internal agent‑facing platform that serves 43+ markets and 25+ languages across FlixBus, FlixTrain, Kamil Koc, and Greyhound. My work sits at the intersection of **product strategy**, **hands‑on engineering**, and **analytics**, with a strong bias for **data‑driven experimentation** and **AI‑power tooling**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=780&lines=I+build+products+at+the+intersection+of+strategy%2C+data%2C+engineering%2C+and+UX;I+care+about+clarity%2C+execution%2C+and+measurable+impact;I+enjoy+turning+complex+problems+into+simple%2C+scalable+solutions" alt="Typing SVG" />
+</p>
 
-Beyond Flix, I act as a **Product & Tech Advisor** for companies in travel, agriculture, and AI, helping them design scalable, customer‑centric tech roadmaps and AI‑infused solutions.
+<p>
+  <a href="https://rifqi-tjahyono.com"><img src="https://img.shields.io/badge/Website-rifqi--tjahyono.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rifqi-tjahjono/"><img src="https://img.shields.io/badge/LinkedIn-Rifqi%20Tjahjono-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
----
-
-## 🛠 What I Ship
-
-- **AI‑driven internal tools**  
-  From GPT‑powered assistants to computer‑vision‑based CCTV and document‑processing systems, I design and ship tools that automate workflows and reduce manual effort for agents and ops teams.
-
-- **Agent‑facing platforms & contact centers**  
-  At Flix, I own and optimize an internal contact platform (Twilio Flex + AI by Cognigy) handling millions of inquiries yearly, improving containment, CSAT, and operational efficiency.
-
-- **Data & analytics ecosystems**  
-  I build and refine dashboards, metrics suites, and A/B testing setups in Power BI, Tableau, and ad‑hoc Streamlit tools to translate raw data into product decisions.
-
-- **Product discovery & experimentation**  
-  I lead user interviews, hypothesis‑driven feature design, and iterative experimentation to ensure what we build actually moves the needle.
+</div>
 
 ---
 
-## 🧠 AI & Product Focus
+## About me
 
-- **Generative AI & LLM‑powered tools**  
-  Building internal “GPT‑style” assistants and productivity‑2.0 tools that sit in Slack, Email, and Twilio‑based workflows.  
-  Exploring techniques like **prompt engineering**, **function calling**, and **RAG‑based internal assistants**.
+I’m a Product Owner and Product & Tech Advisor with 10+ years of experience across product management, analytics, engineering, and operations. My work focuses on turning complex business challenges into clear product strategies, scalable solutions, and measurable outcomes [page:1][page:2].
 
-- **AI‑enabled ops & CX**  
-  Using AI to automate routine agent tasks, triage escalations, and enrich knowledge bases and workflows.
+I currently lead a dedicated tech team at Flix SE in Berlin, where I drive the design, development, and optimization of an internal agent-facing platform serving multiple global markets and brands [page:1]. I also advise companies in AI, F&B, and technology, helping shape product vision, operational efficiency, and growth strategy [page:2].
 
-- **Ethical & responsible AI**  
-  Careful focus on data governance, privacy (GDPR‑aware workflows), and explainability.
+What drives me most is building products that are useful, well-designed, and grounded in real customer and business needs.
 
 ---
 
-## 📦 Open‑Source & Side Projects
+## What I do
 
-Here are some of my public‑facing projects and experiments (you can explore more on GitHub):
-
-- **GDPR‑QA Platform**  
-  A lightweight platform to help teams manage GDPR‑related questions and evidence collection, focusing on audit‑ready workflows and traceable responses. [RifqiMT/gdpr‑qa‑platform](https://github.com/RifqiMT/gdpr-qa-platform)
-
-- **Internal AI‑assisted tools & hackathon projects**  
-  A growing collection of internal “GPT‑style” assistants and productivity tools built during hackathons and internal innovation sprints.
-
-- **AI‑powered workflow experiments**  
-  Personal experiments with AI‑driven task automation, roadmapping, and prioritization tools (including “Focista Schedulo”‑style concepts for turning chaotic to‑do lists into clean dashboards).
-
-If you’re interested in **AI‑product experiments**, **agent‑centric tooling**, or **data‑driven internal platforms**, feel free to explore or contribute.
+- Define product strategy, roadmap direction, and execution priorities.
+- Translate business objectives into practical product solutions.
+- Work closely with engineering, design, analytics, and operations teams.
+- Use data to guide decision-making, experimentation, and optimization.
+- Build and improve AI-powered workflows and internal tools.
+- Lead cross-functional delivery in complex, multi-market environments.
 
 ---
 
-## 🛠 Tech & Product Stack
+## Current role
 
-### Product & Strategy
-- Certified Scrum Product Owner (CSPO) & Scrum Master (CSM)  
-- Product vision, roadmap, and backlog prioritization  
-- UX‑driven problem framing, user research, and A/B testing  
-- Agile & Lean practices, stakeholder management, and cross‑functional leadership  
+At Flix, I own product work for a customer service technology team that builds internal tools used across 43+ markets and multiple brands [page:2]. My work spans roadmap planning, discovery, backlog ownership, delivery coordination, stakeholder management, experimentation, and continuous improvement [page:2].
 
-### Technical & Engineering
-- Languages: **Java, C/C++, C#, Python, SQL, JavaScript, HTML/CSS**  
-- Data & Analytics: **R, SQL, Tableau, Looker, Power BI, Google Data Studio, VBA**  
-- Cloud & Infrastructure: **AWS, Kubernetes, Kafka, Google Cloud Platform**  
-- AI & ML: **Generative AI, foundation models, prompt engineering, LLM‑based products**  
-- Tools & Platforms: **Twilio Flex, Salesforce, Cognigy, NICE WFM, Unity, 3D Max, Android Studio**
-
-### Data & Experimentation
-- Metrics‑driven product design and KPI ownership  
-- A/B tests, cohort analysis, and funnel optimization  
-- Operational metrics (containment, CSAT, SLAs, timeout rates) and process efficiency
+I collaborate with engineering, analytics, automation, operations, customer service, and compliance teams to ensure our products are reliable, scalable, and impactful [page:2]. A major part of the work is making life easier for agents while improving operational efficiency and customer experience.
 
 ---
 
-## 📚 Background
+## Selected experience
 
-- **MSc in Innovation Management** – ESMT Berlin  
-- **BSc in Computer Science** – BINUS University, Jakarta (Game Application & Technology)  
-- Continuous learning in **Generative AI, AI Product Management, and Cloud platforms** (Google, IBM, AWS)
+**Flix SE — Product Owner**  
+I lead a cross-functional customer service tech team and help deliver internal platforms that support agents across global markets. I focus on strategy, discovery, delivery, metrics, and continuous optimization [page:2].
+
+**Amanin International — Product & Tech Advisor**  
+I guide product strategy and execution for AI-powered solutions such as proctoring systems, document processing tools, and CCTV management platforms. I work closely with executive leadership to align product direction with business goals [page:2].
+
+**Teanology — Advisor**  
+I advise a growing tea brand on positioning, growth, sourcing, partnerships, and new revenue streams. This role keeps me close to consumer business, brand strategy, and market expansion [page:2].
+
+**Wayfair — Business Analyst**  
+I built reporting systems and data solutions for commercial teams, supported decision-making, and led process optimization initiatives. My work contributed to operational efficiency and large-scale cost savings [page:2].
+
+**Earlier experience**  
+Before that, I worked across innovation, consulting, and leadership roles at Daimler, IDeA Foundation, Sangkuriang Internasional, and AIESEC. Those experiences shaped my ability to work across cultures, lead teams, and think strategically while staying execution-focused [page:2].
 
 ---
 
-## 📫 Let’s Connect
+## Strengths
 
-- **Personal site:** [https://rifqi‑tjahyono.com](https://rifqi‑tjahyono.com)  
-- **LinkedIn:** [https://www.linkedin.com/in/rifqi‑tjahjono](https://www.linkedin.com/in/rifqi‑tjahjono)  
-- **GitHub:** [https://github.com/RifqiMT](https://github.com/RifqiMT)
+- Product strategy and roadmapping.
+- Discovery, validation, and prioritization.
+- Backlog ownership and agile delivery.
+- Cross-functional communication and stakeholder management.
+- Data analysis, dashboards, and KPI design.
+- AI-enabled product thinking.
+- Operational improvement and change management.
+- Technical fluency and engineering collaboration.
+- Building products in complex enterprise environments.
 
-If you’re working on:
-- AI‑powered internal tools,
-- data‑driven product platforms, or  
-- customer‑service / ops‑centric platforms  
+---
 
-…feel free to reach out or contribute to the projects here.
+## Technical toolkit
 
-📬 *Open for collaborations, open‑source contributions, and speaking/mentoring opportunities in AI/GenAI and product‑driven engineering.*
+**Product & delivery**
+- Product strategy.
+- Roadmapping.
+- Agile and Scrum.
+- Discovery and experimentation.
+- Stakeholder management.
+- Change management.
+
+**Data & analytics**
+- SQL.
+- Tableau.
+- Power BI.
+- Looker.
+- Google Data Studio.
+- R.
+- VBA.
+- A/B testing.
+
+**Engineering & platforms**
+- Python.
+- Java.
+- C.
+- C++.
+- C#.
+- JavaScript.
+- HTML.
+- CSS.
+- AWS.
+- Kafka.
+- Kubernetes.
+
+**Enterprise & automation**
+- Salesforce.
+- Twilio Flex.
+- NICE WFM.
+- Cognigy.
+- Streamlit.
+
+---
+
+## Currently building
+
+- Better internal tools for customer service operations.
+- AI-enabled workflows that reduce manual effort.
+- Scalable product processes for multi-market teams.
+- Clearer decision-making systems through data and automation.
+
+---
+
+## Education
+
+I hold a Master of Science in Management from ESMT Berlin, with a specialization in Innovative Management and Global Digital Strategy, and a Bachelor of Computer Science from BINUS University [page:1][page:2].
+
+I’ve also completed certifications including:
+- Certified Scrum Master.
+- Certified Scrum Product Owner.
+- Google Project Management.
+- Google UX Design.
+- AI Product Manager.
+- Generative AI Leader [page:1][page:2].
+
+---
+
+## How I think
+
+I like problems where product, data, and engineering overlap.
+
+I’m especially interested in:
+- internal tools that improve how teams work,
+- AI products that reduce manual effort,
+- systems that scale across markets,
+- and products that create measurable business value.
+
+I care about clarity, execution, and building things that actually get used.
+
+---
+
+## Community and leadership
+
+Beyond my day-to-day product work, I’m active in internal community initiatives at Flix. I’ve helped organize hackathons and data community events to encourage innovation, collaboration, and knowledge sharing across teams [page:2].
+
+That kind of work matters to me because strong product cultures are built through shared learning, experimentation, and cross-functional trust.
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqi-tjahjono&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqi-tjahjono&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## Languages
+
+- Indonesian — Native.
+- English — Advanced.
+- German — Intermediate.
+
+---
+
+## Connect with me
+
+- Website: [rifqi-tjahyono.com](https://rifqi-tjahyono.com)
+- LinkedIn: [rifqi-tjahjono](https://www.linkedin.com/in/rifqi-tjahjono/)
