@@ -124,6 +124,64 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
 
 ---
 
+## 🌱 Soft skills
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤝 Communication</b><br/><br/>
+      <img src="https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Active%20Listening-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Storytelling-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Presentation-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Collaboration-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Facilitation-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🧭 Leadership</b><br/><br/>
+      <img src="https://img.shields.io/badge/Cross--Functional%20Leadership-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Team%20Coordination-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Decision%20Making-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Coaching-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Mentoring-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Ownership-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧠 Problem solving</b><br/><br/>
+      <img src="https://img.shields.io/badge/Structured%20Thinking-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Analytical%20Reasoning-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Creativity-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Curiosity-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Adaptability-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Resilience-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🌍 Professional mindset</b><br/><br/>
+      <img src="https://img.shields.io/badge/Empathy-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Accountability-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Integrity-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Initiative-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Ownership-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Continuous%20Improvement-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Communication-Trusted%20Partner-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-Cross%20Functional-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Structured-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Professional-6C5CE7?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
 ## 🛠️ Technical toolkit
 
 <div align="center">
