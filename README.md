@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://rifqi-tjahyono.com"><img src="https://img.shields.io/badge/🌐%20Website-rifqi--tjahyono.com-0A66C2?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/rifqi-tjahjono/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Rifqi%20Tjahjono-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/rifqi-tjahjono/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Rifqi%20Tjahyono-0A66C2?style=for-the-badge" /></a>
   <a href="https://github.com/RifqiMT"><img src="https://img.shields.io/badge/🐙%20GitHub-Profile-181717?style=for-the-badge" /></a>
 </p>
 
