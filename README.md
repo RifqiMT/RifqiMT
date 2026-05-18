@@ -1,7 +1,3 @@
-from pathlib import Path
-out=Path('output'); out.mkdir(exist_ok=True)
-readme = r'''<div align="center">
-
 # Hi, I'm Rifqi Tjahjono 👋
 
 ### 🧭 Product & Data Leader | 🛠️ Fullstack Product Builder | 🤖 AI-Driven Problem Solver
@@ -613,8 +609,3 @@ readme = r'''<div align="center">
 <p align="center">
   <sub>Open to product conversations, collaboration, and interesting problems.</sub>
 </p>
-
-</div>
-'''
-Path('output/README.md').write_text(readme, encoding='utf-8')
-print('saved')
