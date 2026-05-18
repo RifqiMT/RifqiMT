@@ -66,59 +66,140 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
 
 ---
 
-## 💪 Strengths
+## 🌟 Strengths
 
-- Product strategy and roadmapping.
-- Discovery, validation, and prioritization.
-- Backlog ownership and agile delivery.
-- Cross-functional communication and stakeholder management.
-- Data analysis, dashboards, and KPI design.
-- AI-enabled product thinking.
-- Operational improvement and change management.
-- Technical fluency and engineering collaboration.
-- Building products in complex enterprise environments.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧠 Product thinking</b><br/><br/>
+      <img src="https://img.shields.io/badge/Product%20Strategy-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Roadmapping-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Discovery-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Prioritization-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Product%20Vision-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Launch%20Execution-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 Data-driven decision making</b><br/><br/>
+      <img src="https://img.shields.io/badge/Analytics-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/KPIs-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Dashboards-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Experimentation-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Insights-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Reporting-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤝 Leadership & collaboration</b><br/><br/>
+      <img src="https://img.shields.io/badge/Stakeholder%20Management-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cross--Functional%20Leadership-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Communication-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Change%20Management-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Empathy-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Resilience-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 AI & automation mindset</b><br/><br/>
+      <img src="https://img.shields.io/badge/AI--Enabled%20Workflows-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Internal%20Tools-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Process%20Optimization-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Operational%20Excellence-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Scalability-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Innovation-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Strategy-Product%20Thinking-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics-Data%20Driven-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-Cross--Functional-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Automation-6C5CE7?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
 ## 🛠️ Technical toolkit
 
-**Product & delivery**
-- Product strategy.
-- Roadmapping.
-- Agile and Scrum.
-- Discovery and experimentation.
-- Stakeholder management.
-- Change management.
+<div align="center">
 
-**Data & analytics**
-- SQL.
-- Tableau.
-- Power BI.
-- Looker.
-- Google Data Studio.
-- R.
-- VBA.
-- A/B testing.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧭 Product & delivery</b><br/><br/>
+      <img src="https://img.shields.io/badge/Product%20Strategy-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Roadmapping-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Agile-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Scrum-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Discovery-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Experimentation-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Stakeholder%20Management-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Change%20Management-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Product%20Vision-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Product%20Launches-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Customer%20Service%20Ops-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/UI%2FUX%20Design-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 Data & analytics</b><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Tableau-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Power%20BI-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Looker-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Google%20Data%20Studio-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/R-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/VBA-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/A/B%20Testing-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Data--Driven%20Decision%20Making-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/KPI%20Design-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Dashboards-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Reporting-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛠️ Engineering & platforms</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Java-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/C-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/C++-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/C%23-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/JavaScript-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/HTML-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/CSS-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/AWS-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Kafka-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Kubernetes-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Technical%20Collaboration-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ Enterprise & automation</b><br/><br/>
+      <img src="https://img.shields.io/badge/Salesforce-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Twilio%20Flex-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/NICE%20WFM-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Streamlit-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/AI--Powered%20Solutions-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Process%20Optimization-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Operations%20Improvement-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-**Engineering & platforms**
-- Python.
-- Java.
-- C.
-- C++.
-- C#.
-- JavaScript.
-- HTML.
-- CSS.
-- AWS.
-- Kafka.
-- Kubernetes.
+<p align="center">
+  <img src="https://img.shields.io/badge/Product-Strategy-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Delivery-Agile%20%26%20Scrum-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-SQL%20%26%20BI-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Kubernetes-6C5CE7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-AI%20Workflows-D35400?style=for-the-badge" />
+</p>
 
-**Enterprise & automation**
-- Salesforce.
-- Twilio Flex.
-- NICE WFM.
-- Cognigy.
-- Streamlit.
+</div>
 
 ---
 
@@ -179,9 +260,11 @@ That kind of work matters to me because strong product cultures are built throug
       </div>
       <br/>
       <b>Country Analytics Platform</b><br/>
-      A deployed analytics platform built to support country-level insights and decision-making.<br/><br/>
+      Country Analytics Platform is a productivity‑focused tool that automates PESTEL and Porter’s Five Forces–style country analysis, enabling product managers, analysts, and strategists to quickly generate structured, data‑backed assessments of specific markets without manual spreadsheet work, by combining curated macroeconomic and socio‑political indicators with standardized templates to surface risks, opportunities, and strategic implications.
+<br/><br/>
       <span>🔎 Explore • 📈 Compare • 🎯 Act</span><br/><br/>
       <a href="https://country-analytics-platform.vercel.app/">🔗 Open live app</a><br/>
+      <a href="https://github.com/RifqiMT/country-analytics-platform">🔗 Github repository</a><br/>
       <a href="https://rifqi-tjahyono.com/%f0%9f%9a%80-country-analytics-sidekick-country-analysis-pestel-porters-without-the-spreadsheet-sweat-%f0%9f%92%bc%e2%9c%a8/">📝 Read article</a>
     </td>
     <td width="50%" valign="top">
@@ -192,9 +275,11 @@ That kind of work matters to me because strong product cultures are built throug
       </div>
       <br/>
       <b>Working Hours Tracker</b><br/>
-      A deployed tool for tracking working hours more clearly and consistently.<br/><br/>
+      Working Hours Tracker is a productivity‑focused app that automates the tracking and analysis of daily working hours, enabling professionals to move from time gut‑feeling to data‑backed insights about how they spend their workday without manual logging or spreadsheet work, by combining personal time‑entry data with standardized visualizations and templates to surface patterns, overwork risks, and opportunities for better time allocation and work‑life balance.
+      <br/><br/>
       <span>🕒 Track • 🧭 Structure • ✅ Plan</span><br/><br/>
       <a href="https://working-hours-tracker-mu.vercel.app/">🔗 Open live app</a><br/>
+      <a href="https://github.com/RifqiMT/working-hours-tracker">🔗 Github repository</a><br/>
       <a href="https://rifqi-tjahyono.com/%f0%9f%93%88-from-time-gut-feeling-to-time-based-insights-the-working-hours-tracker-%f0%9f%93%85%f0%9f%a7%a0/">📝 Read article</a>
     </td>
   </tr>
