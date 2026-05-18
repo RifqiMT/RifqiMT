@@ -1,4 +1,6 @@
-<div align="center">
+from pathlib import Path
+out=Path('output'); out.mkdir(exist_ok=True)
+readme = r'''<div align="center">
 
 # Hi, I'm Rifqi Tjahjono 👋
 
@@ -20,49 +22,125 @@
 
 ## 👋 About me
 
-I’m a Product Owner / Product Manager / Product Builder and Product & Tech Advisor with 10+ years of experience across product management, analytics, engineering, and operations. My work focuses on turning complex business challenges into clear product strategies, scalable solutions, and measurable outcomes.
+<div align="center">
 
-I currently lead a dedicated tech team at Flix SE in Berlin, where I drive the design, development, and optimization of an internal agent-facing platform serving multiple global markets and brands. I also advise companies in AI, F&B, and technology, helping shape product vision, operational efficiency, and growth strategy.
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      I’m a Product Owner / Product Manager / Product Builder and Product & Tech Advisor with 10+ years of experience across product management, analytics, engineering, and operations. My work focuses on turning complex business challenges into clear product strategies, scalable solutions, and measurable outcomes.<br/><br/>
+      I currently lead a dedicated tech team at Flix SE in Berlin, where I drive the design, development, and optimization of an internal agent-facing platform serving multiple global markets and brands. I also advise companies in AI, F&B, and technology, helping shape product vision, operational efficiency, and growth strategy.
+    </td>
+  </tr>
+</table>
 
-What drives me most is building products that are useful, well-designed, and grounded in real customer and business needs.
+<p align="center">
+  <img src="https://img.shields.io/badge/Product-Strategy-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Systems-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Impact-Measurable-16A085?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
 ## 🚀 What I do
 
-- 🧠 Define product strategy, roadmap direction, and execution priorities.
-- 🔄 Translate business objectives into practical product solutions.
-- 🤝 Work closely with engineering, design, analytics, and operations teams.
-- 📊 Use data to guide decision-making, experimentation, and optimization.
-- 🤖 Build and improve AI-powered workflows and internal tools.
-- 🧩 Lead cross-functional delivery in complex, multi-market environments.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧠 Strategy</b><br/><br/>
+      Define product strategy, roadmap direction, and execution priorities.
+    </td>
+    <td width="50%" valign="top">
+      <b>🔄 Translation</b><br/><br/>
+      Translate business objectives into practical product solutions.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤝 Collaboration</b><br/><br/>
+      Work closely with engineering, design, analytics, and operations teams.
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 Data & AI</b><br/><br/>
+      Use data to guide decision-making, experimentation, and optimization.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 Automation</b><br/><br/>
+      Build and improve AI-powered workflows and internal tools.
+    </td>
+    <td width="50%" valign="top">
+      <b>🧩 Delivery</b><br/><br/>
+      Lead cross-functional delivery in complex, multi-market environments.
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 🎯 Current role
 
-At Flix, I own product work for a customer service technology team that builds internal tools used across 43+ markets and multiple brands. My work spans roadmap planning, discovery, backlog ownership, delivery coordination, stakeholder management, experimentation, and continuous improvement.
+<div align="center">
 
-I collaborate with engineering, analytics, automation, operations, customer service, and compliance teams to ensure our products are reliable, scalable, and impactful. A major part of the work is making life easier for agents while improving operational efficiency and customer experience.
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      At Flix, I own product work for a customer service technology team that builds internal tools used across 43+ markets and multiple brands. My work spans roadmap planning, discovery, backlog ownership, delivery coordination, stakeholder management, experimentation, and continuous improvement.<br/><br/>
+      I collaborate with engineering, analytics, automation, operations, customer service, and compliance teams to ensure our products are reliable, scalable, and impactful. A major part of the work is making life easier for agents while improving operational efficiency and customer experience.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Market-43%2B%20Markets-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Agent%20Experience-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Operational%20Excellence-16A085?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
 ## 💼 Selected experience
 
-**Flix SE — Product Owner / Product Manager**  
-I lead a cross-functional customer service tech team and help deliver internal platforms that support agents across global markets. I focus on strategy, discovery, delivery, metrics, and continuous optimization.
+<div align="center">
 
-**Amanin International — Product & Tech Advisor**  
-I guide product strategy and execution for AI-powered solutions such as proctoring systems, document processing tools, and CCTV management platforms. I work closely with executive leadership to align product direction with business goals.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Flix SE — Product Owner / Product Manager</b><br/><br/>
+      Lead a cross-functional customer service tech team and help deliver internal platforms that support agents across global markets.
+    </td>
+    <td width="50%" valign="top">
+      <b>Amanin International — Product & Tech Advisor</b><br/><br/>
+      Guide product strategy and execution for AI-powered solutions such as proctoring systems, document processing tools, and CCTV management platforms.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Teanology — Advisor</b><br/><br/>
+      Advise a growing tea brand on positioning, growth, sourcing, partnerships, and new revenue streams.
+    </td>
+    <td width="50%" valign="top">
+      <b>Wayfair — Data & Business Analyst</b><br/><br/>
+      Built reporting systems and data solutions for commercial teams, supported decision-making, and led process optimization initiatives.
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <b>Earlier experience</b><br/><br/>
+      Worked across innovation, consulting, and leadership roles at Daimler, IDeA Foundation, Sangkuriang Internasional, and AIESEC.
+    </td>
+  </tr>
+</table>
 
-**Teanology — Advisor**  
-I advise a growing tea brand on positioning, growth, sourcing, partnerships, and new revenue streams. This role keeps me close to consumer business, brand strategy, and market expansion.
-
-**Wayfair — Data & Business Analyst**  
-I built reporting systems and data solutions for commercial teams, supported decision-making, and led process optimization initiatives. My work contributed to operational efficiency and large-scale cost savings.
-
-**Earlier experience**  
-Before that, I worked across innovation, consulting, and leadership roles at Daimler, IDeA Foundation, Sangkuriang Internasional, and AIESEC. Those experiences shaped my ability to work across cultures, lead teams, and think strategically while staying execution-focused.
+</div>
 
 ---
 
@@ -331,24 +409,12 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
 </table>
 
 <p align="center">
-  <a href="https://bcert.me/bc/html/show-badge.html?b=cnayuose">
-    <img src="https://img.shields.io/badge/Certified-Scrum%20Master-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="https://bcert.me/bc/html/show-badge.html?b=tphciwco">
-    <img src="https://img.shields.io/badge/Certified-Scrum%20Product%20Owner-2E86DE?style=for-the-badge" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/03T65Z4U1LQS">
-    <img src="https://img.shields.io/badge/Certified-Google%20Project%20Management-16A085?style=for-the-badge" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/OWDFRQZLLBR5">
-    <img src="https://img.shields.io/badge/Certified-Google%20UX%20Design-6C5CE7?style=for-the-badge" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/K0IMRDQQ52OP">
-    <img src="https://img.shields.io/badge/Certified-AI%20Product%20Manager-D35400?style=for-the-badge" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/3ZWIBO5FF8PH">
-    <img src="https://img.shields.io/badge/Certified-Generative%20AI%20Leader-8E44AD?style=for-the-badge" />
-  </a>
+  <a href="https://bcert.me/bc/html/show-badge.html?b=cnayuose"><img src="https://img.shields.io/badge/Certified-Scrum%20Master-0A66C2?style=for-the-badge" /></a>
+  <a href="https://bcert.me/bc/html/show-badge.html?b=tphciwco"><img src="https://img.shields.io/badge/Certified-Scrum%20Product%20Owner-2E86DE?style=for-the-badge" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/03T65Z4U1LQS"><img src="https://img.shields.io/badge/Certified-Google%20Project%20Management-16A085?style=for-the-badge" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/OWDFRQZLLBR5"><img src="https://img.shields.io/badge/Certified-Google%20UX%20Design-6C5CE7?style=for-the-badge" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/K0IMRDQQ52OP"><img src="https://img.shields.io/badge/Certified-AI%20Product%20Manager-D35400?style=for-the-badge" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/3ZWIBO5FF8PH"><img src="https://img.shields.io/badge/Certified-Generative%20AI%20Leader-8E44AD?style=for-the-badge" /></a>
 </p>
 
 </div>
@@ -449,6 +515,8 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
 
 ## ✨ Projects
 
+<div align="center">
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -459,8 +527,7 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
       </div>
       <br/>
       <b>Country Analytics Platform</b><br/>
-      Country Analytics Platform is a productivity‑focused tool that automates PESTEL and Porter’s Five Forces–style country analysis, enabling product managers, analysts, and strategists to quickly generate structured, data‑backed assessments of specific markets without manual spreadsheet work, by combining curated macroeconomic and socio‑political indicators with standardized templates to surface risks, opportunities, and strategic implications.
-<br/><br/>
+      A productivity-focused tool that automates structured country analysis for faster strategic decisions.<br/><br/>
       <span>🔎 Explore • 📈 Compare • 🎯 Act</span><br/><br/>
       <a href="https://country-analytics-platform.vercel.app/">🔗 Open live app</a><br/>
       <a href="https://github.com/RifqiMT/country-analytics-platform">🔗 Github repository</a><br/>
@@ -474,8 +541,7 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
       </div>
       <br/>
       <b>Working Hours Tracker</b><br/>
-      Working Hours Tracker is a productivity‑focused app that automates the tracking and analysis of daily working hours, enabling professionals to move from time gut‑feeling to data‑backed insights about how they spend their workday without manual logging or spreadsheet work, by combining personal time‑entry data with standardized visualizations and templates to surface patterns, overwork risks, and opportunities for better time allocation and work‑life balance.
-      <br/><br/>
+      A productivity-focused app that turns time tracking into clear, data-backed workday insights.<br/><br/>
       <span>🕒 Track • 🧭 Structure • ✅ Plan</span><br/><br/>
       <a href="https://working-hours-tracker-mu.vercel.app/">🔗 Open live app</a><br/>
       <a href="https://github.com/RifqiMT/working-hours-tracker">🔗 Github repository</a><br/>
@@ -484,58 +550,71 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 GitHub stats
 
+<div align="center">
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RifqiMT&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
+</div>
+
 ---
 
 ## 🌍 Languages
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <div>🇮🇩</div>
+      <b>Indonesian</b><br/>
+      <sub>Native</sub>
+    </td>
+    <td align="center" width="180">
+      <div>🇬🇧</div>
+      <b>English</b><br/>
+      <sub>Advanced</sub>
+    </td>
+    <td align="center" width="180">
+      <div>🇩🇪</div>
+      <b>German</b><br/>
+      <sub>Intermediate</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="180">
-        <div>🇮🇩</div>
-        <b>Indonesian</b><br/>
-        <sub>Native</sub>
-      </td>
-      <td align="center" width="180">
-        <div>🇬🇧</div>
-        <b>English</b><br/>
-        <sub>Advanced</sub>
-      </td>
-      <td align="center" width="180">
-        <div>🇩🇪</div>
-        <b>German</b><br/>
-        <sub>Intermediate</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/🇮🇩%20Indonesian-Native-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇬🇧%20English-Advanced-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇩🇪%20German-Intermediate-6C5CE7?style=for-the-badge" />
 </p>
 
+</div>
 
 ---
 
 ## 📫 Connect with me
 
+<div align="center">
+
 <p align="center">
-  <a href="https://rifqi-tjahyono.com">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Website-Explore%20my%20work-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/rifqi-tjahjono/">
-    <img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-Let%E2%80%99s%20connect-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="mailto:rifqi.tjahyono.product.specialist@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-Me%20directly-D14836?style=for-the-badge" />
-  </a>
+  <a href="https://rifqi-tjahyono.com"><img src="https://img.shields.io/badge/🌐%20Visit%20Website-Explore%20my%20work-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/rifqi-tjahjono/"><img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-Let%E2%80%99s%20connect-0A66C2?style=for-the-badge" /></a>
+  <a href="mailto:rifqi.tjahyono.product.specialist@gmail.com"><img src="https://img.shields.io/badge/✉️%20Email-Me%20directly-D14836?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
   <sub>Open to product conversations, collaboration, and interesting problems.</sub>
 </p>
+
+</div>
+'''
+Path('output/README.md').write_text(readme, encoding='utf-8')
+print('saved')
