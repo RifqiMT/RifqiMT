@@ -263,10 +263,47 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
 
 ## 🔭 Currently building
 
-- Better internal tools for customer service operations.
-- AI-enabled workflows that reduce manual effort.
-- Scalable product processes for multi-market teams.
-- Clearer decision-making systems through data and automation.
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 AI-enabled workflows</b><br/><br/>
+      Building tools that reduce manual effort and help teams move faster with less friction.<br/><br/>
+      <img src="https://img.shields.io/badge/AI%20Workflows-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🛠️ Internal platforms</b><br/><br/>
+      Designing scalable products that improve how customer service teams work across markets.<br/><br/>
+      <img src="https://img.shields.io/badge/Internal%20Tools-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Scalable%20Systems-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📊 Decision support</b><br/><br/>
+      Improving the way teams use data to prioritize, plan, and act with confidence.<br/><br/>
+      <img src="https://img.shields.io/badge/Data%20Driven-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Decision%20Support-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🌍 Multi-market operations</b><br/><br/>
+      Creating processes and products that work reliably across different countries and contexts.<br/><br/>
+      <img src="https://img.shields.io/badge/Multi--Market-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Operational%20Excellence-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Practical%20Impact-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalability-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Direction-User%20Value-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Approach-Continuous%20Improvement-6C5CE7?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
@@ -320,23 +357,93 @@ Before that, I worked across innovation, consulting, and leadership roles at Dai
 
 ## 🧠 How I think
 
-I like problems where product, data, and engineering overlap.
+<div align="center">
 
-I’m especially interested in:
-- internal tools that improve how teams work,
-- AI products that reduce manual effort,
-- systems that scale across markets,
-- and products that create measurable business value.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎯 Clarity first</b><br/><br/>
+      I like turning ambiguity into a clear problem, a shared direction, and a practical next step.<br/><br/>
+      <img src="https://img.shields.io/badge/Clarity-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Focus-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 Evidence over assumption</b><br/><br/>
+      I prefer data, user feedback, and operational signals over gut feel when making decisions.<br/><br/>
+      <img src="https://img.shields.io/badge/Evidence-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Decision--Making-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤝 Build with people</b><br/><br/>
+      I work best when product, engineering, design, and operations are aligned around the same outcome.<br/><br/>
+      <img src="https://img.shields.io/badge/Collaboration-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Alignment-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🤖 Use technology intentionally</b><br/><br/>
+      I’m drawn to AI and automation when they remove friction, save time, and improve how teams work.<br/><br/>
+      <img src="https://img.shields.io/badge/Automation-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Impact-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-I care about clarity, execution, and building things that actually get used.
+<p align="center">
+  <img src="https://img.shields.io/badge/Think-Strategic-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Work-Data%20Informed-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Cross--Functional-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Create-Practical%20Impact-6C5CE7?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
 ## 🤝 Community and leadership
 
-Beyond my day-to-day product work, I’m active in internal community initiatives at Flix. I’ve helped organize hackathons and data community events to encourage innovation, collaboration, and knowledge sharing across teams.
+<div align="center">
 
-That kind of work matters to me because strong product cultures are built through shared learning, experimentation, and cross-functional trust.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚀 Internal communities</b><br/><br/>
+      I help build spaces where people can share ideas, learn from each other, and collaborate across functions.<br/><br/>
+      <img src="https://img.shields.io/badge/Community-Building-0A66C2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Knowledge%20Sharing-0A66C2?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🏆 Hackathons & events</b><br/><br/>
+      I’ve helped organize hackathons and data community events that encourage experimentation and practical innovation.<br/><br/>
+      <img src="https://img.shields.io/badge/Hackathons-Innovation-2E86DE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Events-Collaboration-2E86DE?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤝 Cross-functional trust</b><br/><br/>
+      I believe strong product cultures are built through trust, alignment, and shared ownership across teams.<br/><br/>
+      <img src="https://img.shields.io/badge/Trust-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Alignment-16A085?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🌱 Learning culture</b><br/><br/>
+      I enjoy helping teams create a culture of experimentation, feedback, and continuous improvement.<br/><br/>
+      <img src="https://img.shields.io/badge/Learning-Culture-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Continuous%20Improvement-6C5CE7?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Community-Active-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-Trusted-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaboration-Cross--Functional-16A085?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Culture-Builder-6C5CE7?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
