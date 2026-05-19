@@ -24,7 +24,7 @@
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
 <div align="center">
 
@@ -32,7 +32,7 @@
   <tr>
     <td width="100%" valign="top">
       I’m a Product Owner / Product Manager / Product Builder and Product & Tech Advisor with 10+ years of experience across product management, analytics, engineering, and operations. My work focuses on turning complex business challenges into clear product strategies, scalable solutions, and measurable outcomes.<br/><br/>
-      I currently lead a dedicated tech team at Flix SE in Berlin, where I drive the design, development, and optimization of an internal agent-facing platform serving multiple global markets and brands. I also advise companies in AI, F&B, and technology, helping shape product vision, operational efficiency, and growth strategy.
+      I currently lead a dedicated tech team at Flix SE in Berlin, where I drive the design, development, and optimization of an internal agent-facing platform and customer care platform serving multiple global markets and brands. I also advise companies in AI, F&B, and technology, helping shape product vision, operational efficiency, and growth strategy.
     </td>
   </tr>
 </table>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 What I do
+## 🚀 What I Do
 
 <div align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🎯 Current role
+## 🎯 Current Role
 
 <div align="center">
 
@@ -160,26 +160,26 @@
       <img src="https://img.shields.io/badge/Companies-Flix-0A66C2?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🤖 AI & automation</b><br/><br/>
+      <b>🤖 AI & Automation</b><br/><br/>
       AI-powered workflows, proctoring, document processing, and operational automation.<br/><br/>
       <img src="https://img.shields.io/badge/Companies-Amanin-2E86DE?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🛒 E-commerce & retail</b><br/><br/>
+      <b>🛒 E-commerce & Retail</b><br/><br/>
       Commercial analytics, reporting, and optimization for retail-facing and marketplace contexts.<br/><br/>
       <img src="https://img.shields.io/badge/Companies-Wayfair-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🍵 Consumer goods & F&B</b><br/><br/>
+      <b>🍵 Consumer Goods & F&B</b><br/><br/>
       Brand strategy, sourcing, growth, and partnerships for consumer-focused businesses.<br/><br/>
       <img src="https://img.shields.io/badge/Companies-Teanology-6C5CE7?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🏢 Consulting & corporate innovation</b><br/><br/>
+      <b>🏢 Consulting & Corporate Innovation</b><br/><br/>
       Transformation, strategy, and execution work in complex organizations and innovation programs.<br/><br/>
       <img src="https://img.shields.io/badge/Companies-IDeA Foundation- D35400?style=for-the-badge" />
     </td>
@@ -196,7 +196,7 @@
       <img src="https://img.shields.io/badge/Companies-Daimler-2C3E50?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🚀 Startup & digital product</b><br/><br/>
+      <b>🚀 Startup & Digital Product</b><br/><br/>
       Product building in fast-moving, experiment-driven environments with strong execution needs.<br/><br/>
       <img src="https://img.shields.io/badge/Companies-Sangkuriang%20Internasional%20%26%20Amanin-7F8C8D?style=for-the-badge" />
     </td>
@@ -225,7 +225,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🧠 Product thinking</b><br/><br/>
+      <b>🧠 Product Thinking</b><br/><br/>
       <img src="https://img.shields.io/badge/Product%20Strategy-0A66C2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Roadmapping-0A66C2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Discovery-0A66C2?style=for-the-badge" />
@@ -234,7 +234,7 @@
       <img src="https://img.shields.io/badge/Launch%20Execution-0A66C2?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>📊 Data-driven decision making</b><br/><br/>
+      <b>📊 Data-driven Decision Making</b><br/><br/>
       <img src="https://img.shields.io/badge/Analytics-2E86DE?style=for-the-badge" />
       <img src="https://img.shields.io/badge/KPIs-2E86DE?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Dashboards-2E86DE?style=for-the-badge" />
@@ -245,7 +245,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🤝 Leadership & collaboration</b><br/><br/>
+      <b>🤝 Leadership & Collaboration</b><br/><br/>
       <img src="https://img.shields.io/badge/Stakeholder%20Management-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Cross--Functional%20Leadership-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Communication-16A085?style=for-the-badge" />
@@ -254,7 +254,7 @@
       <img src="https://img.shields.io/badge/Resilience-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🤖 AI & automation mindset</b><br/><br/>
+      <b>🤖 AI & Automation Mindset</b><br/><br/>
       <img src="https://img.shields.io/badge/AI--Enabled%20Workflows-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Internal%20Tools-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Process%20Optimization-6C5CE7?style=for-the-badge" />
@@ -276,7 +276,7 @@
 
 ---
 
-## 🌱 Soft skills
+## 🌱 Soft Skills
 
 <div align="center">
 
@@ -303,7 +303,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🧠 Problem solving</b><br/><br/>
+      <b>🧠 Problem Solving</b><br/><br/>
       <img src="https://img.shields.io/badge/Structured%20Thinking-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Analytical%20Reasoning-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Creativity-16A085?style=for-the-badge" />
@@ -312,7 +312,7 @@
       <img src="https://img.shields.io/badge/Resilience-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🌍 Professional mindset</b><br/><br/>
+      <b>🌍 Professional Mindset</b><br/><br/>
       <img src="https://img.shields.io/badge/Empathy-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Accountability-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Integrity-6C5CE7?style=for-the-badge" />
@@ -334,14 +334,14 @@
 
 ---
 
-## 🛠️ Technical toolkit
+## 🛠️ Technical Toolkit
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🧭 Product & delivery</b><br/><br/>
+      <b>🧭 Product & Delivery</b><br/><br/>
       <img src="https://img.shields.io/badge/Product%20Strategy-0A66C2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Roadmapping-0A66C2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Agile-0A66C2?style=for-the-badge" />
@@ -356,7 +356,7 @@
       <img src="https://img.shields.io/badge/UI%2FUX%20Design-0A66C2?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>📊 Data & analytics</b><br/><br/>
+      <b>📊 Data & Analytics</b><br/><br/>
       <img src="https://img.shields.io/badge/SQL-2E86DE?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Tableau-2E86DE?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Power%20BI-2E86DE?style=for-the-badge" />
@@ -373,7 +373,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🛠️ Engineering & platforms</b><br/><br/>
+      <b>🛠️ Engineering & Platforms</b><br/><br/>
       <img src="https://img.shields.io/badge/Python-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Java-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/C-16A085?style=for-the-badge" />
@@ -389,7 +389,7 @@
       <img src="https://img.shields.io/badge/Technical%20Collaboration-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>⚙️ Enterprise & automation</b><br/><br/>
+      <b>⚙️ Enterprise & Automation</b><br/><br/>
       <img src="https://img.shields.io/badge/Salesforce-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Twilio-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/NICE%20WFM-6C5CE7?style=for-the-badge" />
@@ -415,20 +415,20 @@
 
 ---
 
-## 🔭 Currently building
+## 🔭 Currently Building
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🤖 AI-enabled workflows</b><br/><br/>
+      <b>🤖 AI-enabled Workflows</b><br/><br/>
       Building tools that reduce manual effort and help teams move faster with less friction.<br/><br/>
       <img src="https://img.shields.io/badge/AI%20Workflows-0A66C2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🛠️ Internal platforms</b><br/><br/>
+      <b>🛠️ Internal Platforms</b><br/><br/>
       Designing scalable products that improve how customer service teams work across markets.<br/><br/>
       <img src="https://img.shields.io/badge/Internal%20Tools-2E86DE?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Scalable%20Systems-2E86DE?style=for-the-badge" />
@@ -436,13 +436,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📊 Decision support</b><br/><br/>
+      <b>📊 Decision Support</b><br/><br/>
       Improving the way teams use data to prioritize, plan, and act with confidence.<br/><br/>
       <img src="https://img.shields.io/badge/Data%20Driven-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Decision%20Support-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🌍 Multi-market operations</b><br/><br/>
+      <b>🌍 Multi-market Operations</b><br/><br/>
       Creating processes and products that work reliably across different countries and contexts.<br/><br/>
       <img src="https://img.shields.io/badge/Multi--Market-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Operational%20Excellence-6C5CE7?style=for-the-badge" />
@@ -497,20 +497,20 @@
 
 ---
 
-## 🧠 How I think
+## 🧠 How I Think
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🎯 Clarity first</b><br/><br/>
+      <b>🎯 Clarity First</b><br/><br/>
       I like turning ambiguity into a clear problem, a shared direction, and a practical next step.<br/><br/>
       <img src="https://img.shields.io/badge/Clarity-0A66C2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Focus-0A66C2?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>📊 Evidence over assumption</b><br/><br/>
+      <b>📊 Evidence over Assumption</b><br/><br/>
       I prefer data, user feedback, and operational signals over gut feel when making decisions.<br/><br/>
       <img src="https://img.shields.io/badge/Evidence-2E86DE?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Decision--Making-2E86DE?style=for-the-badge" />
@@ -518,13 +518,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🤝 Build with people</b><br/><br/>
+      <b>🤝 Build with People</b><br/><br/>
       I work best when product, engineering, design, and operations are aligned around the same outcome.<br/><br/>
       <img src="https://img.shields.io/badge/Collaboration-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Alignment-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🤖 Use technology intentionally</b><br/><br/>
+      <b>🤖 Use Technology Intentionally</b><br/><br/>
       I’m drawn to AI and automation when they remove friction, save time, and improve how teams work.<br/><br/>
       <img src="https://img.shields.io/badge/Automation-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Impact-6C5CE7?style=for-the-badge" />
@@ -543,20 +543,20 @@
 
 ---
 
-## 🤝 Community and leadership
+## 🤝 Community and Leadership
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🚀 Internal communities</b><br/><br/>
+      <b>🚀 Internal Communities</b><br/><br/>
       I help build spaces where people can share ideas, learn from each other, and collaborate across functions.<br/><br/>
       <img src="https://img.shields.io/badge/Community-Building-0A66C2?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Knowledge%20Sharing-0A66C2?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🏆 Hackathons & events</b><br/><br/>
+      <b>🏆 Hackathons & Events</b><br/><br/>
       I’ve helped organize hackathons and data community events that encourage experimentation and practical innovation.<br/><br/>
       <img src="https://img.shields.io/badge/Hackathons-Innovation-2E86DE?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Events-Collaboration-2E86DE?style=for-the-badge" />
@@ -570,7 +570,7 @@
       <img src="https://img.shields.io/badge/Alignment-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🌱 Learning culture</b><br/><br/>
+      <b>🌱 Learning Culture</b><br/><br/>
       I enjoy helping teams create a culture of experimentation, feedback, and continuous improvement.<br/><br/>
       <img src="https://img.shields.io/badge/Learning-Culture-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Continuous%20Improvement-6C5CE7?style=for-the-badge" />
@@ -630,7 +630,7 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -641,7 +641,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Backend & cloud</b><br/><br/>
+      <b>Backend & Cloud</b><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -649,7 +649,7 @@
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <b>Data & analytics</b><br/><br/>
+      <b>Data & Analytics</b><br/><br/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -659,7 +659,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Product & automation</b><br/><br/>
+      <b>Product & Automation</b><br/><br/>
       <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
       <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
       <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
@@ -667,7 +667,7 @@
       <img src="https://img.shields.io/badge/AI%20Workflows-D35400?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>Frontend & foundations</b><br/><br/>
+      <b>Frontend & Foundations</b><br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -722,7 +722,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
 <div align="center">
 
@@ -745,24 +745,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>👔 Executive colleague</b><br/><br/>
+      <b>👔 Executive Colleague</b><br/><br/>
       “Rifqi consistently brings clarity to complex problems and aligns cross-functional teams around practical outcomes.”<br/><br/>
       <img src="https://img.shields.io/badge/Reference-Strategic%20Clarity-0A66C2?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>🧭 Direct manager</b><br/><br/>
+      <b>🧭 Direct Manager</b><br/><br/>
       “Rifqi is one of the most dependable product professionals I’ve worked with. He communicates clearly and makes sound decisions.”<br/><br/>
       <img src="https://img.shields.io/badge/Reference-Dependable%20Execution-2E86DE?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🤝 Cross-functional stakeholder</b><br/><br/>
+      <b>🤝 Cross-functional Stakeholder</b><br/><br/>
       “Rifqi stands out for his ability to turn ambiguity into structure and keep teams aligned.”<br/><br/>
       <img src="https://img.shields.io/badge/Reference-Team%20Alignment-16A085?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
-      <b>⭐ Senior peer</b><br/><br/>
+      <b>⭐ Senior Peer</b><br/><br/>
       “Working with Rifqi is always productive because he connects product, data, and engineering in an effective way.”<br/><br/>
       <img src="https://img.shields.io/badge/Reference-Cross--Functional%20Impact-6C5CE7?style=for-the-badge" />
     </td>
