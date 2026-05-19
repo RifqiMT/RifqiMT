@@ -32,7 +32,7 @@
   <tr>
     <td width="100%" valign="top">
       I’m a Product Owner / Product Manager / Product Builder and Product & Tech Advisor with 10+ years of experience across product management, analytics, engineering, and operations. My work focuses on turning complex business challenges into clear product strategies, scalable solutions, and measurable outcomes.<br/><br/>
-      I currently lead a dedicated tech team at Flix SE in Berlin, where I drive the design, development, and optimization of an internal agent-facing platform and customer care platform serving multiple global markets and brands. I also advise companies in AI, F&B, and technology, helping shape product vision, operational efficiency, and growth strategy.
+      I currently lead a dedicated tech team at Flix SE in Berlin, where I drive the design, development, and optimization of internal agent-facing platform and customer care platforms serving multiple global markets and brands. I also advise companies in AI, F&B, and technology, helping shape product vision, operational efficiency, and growth strategy.
     </td>
   </tr>
 </table>
