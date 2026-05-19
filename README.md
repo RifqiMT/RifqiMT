@@ -1,6 +1,8 @@
 # Hi, I'm Rifqi Tjahyono 👋
 
-### 🧭 Product & Data Leader | 🛠️ Fullstack Product Builder | 🤖 AI-Driven Problem Solver
+<p align="center">
+  <b> 🧭 Product & Data Leader | 🛠️ Fullstack Product Builder | 🌍 Sustainability-driven & Data-driven Product Manager </b><br/><br/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=780&lines=I+build+products+at+the+intersection+of+strategy%2C+data%2C+engineering%2C+and+UX;I+care+about+clarity%2C+execution%2C+and+measurable+impact;I+enjoy+turning+complex+problems+into+simple%2C+scalable+solutions" alt="Typing SVG" />
