@@ -104,6 +104,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Multi--Market-43%2B%20Markets-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Agent%20Experience-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-User%20Experience-2E86DE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Goal-Operational%20Excellence-16A085?style=for-the-badge" />
 </p>
 
