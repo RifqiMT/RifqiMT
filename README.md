@@ -471,14 +471,14 @@
       <b>🎓 Master of Science in Management</b><br/>
       <sub>ESMT Berlin</sub><br/><br/>
       Specialization in <b>Innovative Management</b> and <b>Global Digital Strategy</b>.<br/><br/>
-      <img src="https://img.shields.io/badge/Management-ESMT%20Berlin-0A66C2?style=for-the-badge" />
+      <a href="https://esmt.berlin/"><img src="https://img.shields.io/badge/Management-ESMT%20Berlin-0A66C2?style=for-the-badge" /></a>
       <img src="https://img.shields.io/badge/Digital%20Strategy-Innovation-2E86DE?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
       <b>💻 Bachelor of Computer Science</b><br/>
       <sub>BINUS University</sub><br/><br/>
       Built a strong foundation in <b>computer science</b>, <b>problem solving</b>, and <b>technical thinking</b>.<br/><br/>
-      <img src="https://img.shields.io/badge/Computer%20Science-BINUS%20University-16A085?style=for-the-badge" />
+      <a href="https://binus.ac.id/"><img src="https://img.shields.io/badge/Computer%20Science-BINUS%20University-16A085?style=for-the-badge" /></a>
       <img src="https://img.shields.io/badge/Technical%20Foundation-Problem%20Solving-6C5CE7?style=for-the-badge" />
     </td>
   </tr>
