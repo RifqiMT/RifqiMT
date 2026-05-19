@@ -380,6 +380,7 @@
       <img src="https://img.shields.io/badge/C++-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/C%23-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/JavaScript-16A085?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/TypeScript-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/HTML-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/CSS-16A085?style=for-the-badge" />
       <img src="https://img.shields.io/badge/AWS-16A085?style=for-the-badge" />
@@ -396,6 +397,8 @@
       <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Streamlit-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Unity-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cursor-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Claude-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/AI--Powered%20Solutions-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Process%20Optimization-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Operations%20Improvement-6C5CE7?style=for-the-badge" />
@@ -667,6 +670,7 @@
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <b>Data & Analytics</b><br/><br/>
@@ -685,10 +689,13 @@
       <img src="https://img.shields.io/badge/Cognigy-6C5CE7?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
       <img src="https://img.shields.io/badge/AI%20Workflows-D35400?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-18181B?style=for-the-badge&logo=anthropic&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <b>Frontend & Foundations</b><br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
