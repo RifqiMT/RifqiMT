@@ -2,7 +2,7 @@
 
 <p align="center">
   <b> 🧭 Product & Data Leader | 🛠️ Fullstack Product Builder | 🤖 AI-Driven Problem Solver | </b> <br/><br/>
-  <b> 🌍📈 Sustainability-driven & Data-driven Product Management Professional  </b>
+  <b> 🌍📈 Driving Sustainability-Focused, Data-Backed Product Strategy  </b>
 </p>
 
 <p align="center">
