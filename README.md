@@ -634,9 +634,29 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RifqiMT&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifqiMT&theme=tokyonight" alt="Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=RifqiMT&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifqiMT&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifqiMT&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifqiMT&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -684,7 +704,13 @@
   <img src="https://img.shields.io/badge/Automation-AI%20%26%20Workflows-6C5CE7?style=for-the-badge" />
 </p>
 
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=RifqiMT&style=for-the-badge&color=0A66C2)](https://github.com/RifqiMT)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Active-0A66C2?style=for-the-badge)](https://github.com/RifqiMT)
+
 </div>
+
 
 ---
 
