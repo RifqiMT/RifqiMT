@@ -157,48 +157,48 @@
     <td width="50%" valign="top">
       <b>🚍 Mobility</b><br/><br/>
       Flix and other large-scale transportation environments with multi-market operations.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-Flix-0A66C2?style=for-the-badge" />
+      <a href="https://www.flix.com/"> <img src="https://img.shields.io/badge/Companies-Flix-0A66C2?style=for-the-badge" /> </a>
     </td>
     <td width="50%" valign="top">
       <b>🤖 AI & Automation</b><br/><br/>
       AI-powered workflows, proctoring, document processing, and operational automation.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-Amanin-2E86DE?style=for-the-badge" />
+      <a href="https://amanin.id/"> <img src="https://img.shields.io/badge/Companies-Amanin-2E86DE?style=for-the-badge" /> </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🛒 E-commerce & Retail</b><br/><br/>
       Commercial analytics, reporting, and optimization for retail-facing and marketplace contexts.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-Wayfair-16A085?style=for-the-badge" />
+      <a href="https://www.wayfair.com/"> <img src="https://img.shields.io/badge/Companies-Wayfair-16A085?style=for-the-badge" />  </a>
     </td>
     <td width="50%" valign="top">
       <b>🍵 Consumer Goods & F&B</b><br/><br/>
       Brand strategy, sourcing, growth, and partnerships for consumer-focused businesses.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-Teanology-6C5CE7?style=for-the-badge" />
+      <a href="https://www.instagram.com/teanology.id/"> <img src="https://img.shields.io/badge/Companies-Teanology-6C5CE7?style=for-the-badge" /> </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🏢 Consulting & Corporate Innovation</b><br/><br/>
       Transformation, strategy, and execution work in complex organizations and innovation programs.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-IDeA Foundation- D35400?style=for-the-badge" />
+      <a href="https://www.idea.am/"> <img src="https://img.shields.io/badge/Companies-IDeA Foundation- D35400?style=for-the-badge" /> </a>
     </td>
     <td width="50%" valign="top">
       <b>🎓 Education & community</b><br/><br/>
       AIESEC, and community-building initiatives focused on learning and growth.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-AIESEC%20%26%20IDeA%20Foundation-8E44AD?style=for-the-badge" />
+      <a href="https://aiesec.org/"> <img src="https://img.shields.io/badge/Companies-AIESEC%20-8E44AD?style=for-the-badge" /> </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🚗 Automotive</b><br/><br/>
       Innovation experience from Daimler in a highly engineered, global environment.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-Daimler-2C3E50?style=for-the-badge" />
+      <a href="https://group.mercedes-benz.com/en/"> <img src="https://img.shields.io/badge/Companies-Daimler-2C3E50?style=for-the-badge" /> </a>
     </td>
     <td width="50%" valign="top">
       <b>🚀 Startup & Digital Product</b><br/><br/>
       Product building in fast-moving, experiment-driven environments with strong execution needs.<br/><br/>
-      <img src="https://img.shields.io/badge/Companies-Sangkuriang%20Internasional%20%26%20Amanin-7F8C8D?style=for-the-badge" />
+      <a href="https://sangkuriang.co.id/"> <img src="https://img.shields.io/badge/Companies-Sangkuriang%20Internasional-7F8C8D?style=for-the-badge" /> </a>
     </td>
   </tr>
 </table>
