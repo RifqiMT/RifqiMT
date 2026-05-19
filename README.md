@@ -1,7 +1,8 @@
 # Hi, I'm Rifqi Tjahyono 👋
 
 <p align="center">
-  <b> 🧭 Product & Data Leader | 🛠️ Fullstack Product Builder | 🌍 Sustainability-driven & Data-driven Product Manager </b><br/><br/>
+  <b> 🧭 Product & Data Leader | 🛠️ Fullstack Product Builder | 🤖 AI-Driven Problem Solver | </b> <br/><br/>
+  <b> 🌍📈 Sustainability-driven & Data-driven Product Management Professional  </b>
 </p>
 
 <p align="center">
