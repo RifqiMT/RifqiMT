@@ -638,12 +638,11 @@
 
 <div align="center">
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifqiMT&theme=tokyonight" alt="Profile Details" />
+</div>
+
 <table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifqiMT&theme=tokyonight" alt="Profile Details" />
-    </td>
-  </tr>
   <tr>
     <td align="center">
       <img src="https://streak-stats.demolab.com/?user=RifqiMT&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
@@ -660,7 +659,13 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifqiMT&theme=tokyonight&utcOffset=7" alt="Productive Time" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://ghchart.rshah.org/0A66C2/RifqiMT" alt="GitHub contribution heatmap" />
+    </td>
+  </tr>
 </table>
+
 
 <table>
   <tr>
