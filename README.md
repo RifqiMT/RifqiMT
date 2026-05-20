@@ -650,17 +650,23 @@
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifqiMT&theme=tokyonight" alt="GitHub Stats" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifqiMT&theme=tokyonight" alt="Top Languages" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifqiMT&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifqiMT&theme=tokyonight&utcOffset=2" alt="Weekday commit statistics" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifqiMT&theme=tokyonight" alt="Top Languages by Repo" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RifqiMT&theme=tokyonight" alt="Top Languages by Commit" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifqiMT&theme=tokyonight&utcOffset=7" alt="Commit statistics by workday" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
       <img src="https://ghchart.rshah.org/0A66C2/RifqiMT" alt="GitHub contribution heatmap" />
     </td>
   </tr>
