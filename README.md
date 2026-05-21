@@ -24,7 +24,7 @@
 
 ---
 
-## 👋 About Me
+<h2 id="about-me">👋 About Me</h2>
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 What I Do
+<h2 id="what-i-do">🚀 What I Do</h2>
 
 <div align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🎯 Current Role
+<h2 id="current-role">🎯 Current Role</h2>
 
 <div align="center">
 
@@ -112,7 +112,7 @@
 
 ---
 
-## 💼 Selected experience
+<h2 id="highlighted-experience">💼 Highlighted Experience</h2>
 
 <div align="center">
 
@@ -149,7 +149,7 @@
 
 ---
 
-## 🏭 Industries
+<h2 id="industries">🏭 Industries</h2>
 
 <div align="center">
 
@@ -219,7 +219,7 @@
 
 ---
 
-## 🌟 Strengths
+<h2 id="strengths">🌟 Strengths</h2>
 
 <div align="center">
 
@@ -277,7 +277,7 @@
 
 ---
 
-## 🌱 Soft Skills
+<h2 id="soft-skills">🌱 Soft Skills</h2>
 
 <div align="center">
 
@@ -335,7 +335,7 @@
 
 ---
 
-## 🛠️ Technical Toolkit
+<h2 id="technical-toolkit">🛠️ Technical Toolkit</h2>
 
 <div align="center">
 
@@ -419,7 +419,7 @@
 
 ---
 
-## 🔭 Currently Building
+<h2 id="currently-building">🔭 Currently Building</h2>
 
 <div align="center">
 
@@ -465,7 +465,7 @@
 
 ---
 
-## 🎓 Education
+<h2 id="education">🎓 Education</h2>
 
 <div align="center">
 
@@ -501,7 +501,7 @@
 
 ---
 
-## 🧠 How I Think
+<h2 id="how-i-think">🧠 How I Think</h2>
 
 <div align="center">
 
@@ -547,7 +547,7 @@
 
 ---
 
-## 🤝 Community and Leadership
+<h2 id="community-and-leadership">🤝 Community and Leadership</h2>
 
 <div align="center">
 
@@ -593,7 +593,7 @@
 
 ---
 
-## ✨ Projects
+<h2 id="projects">✨ Projects</h2>
 
 <div align="center">
 
@@ -634,7 +634,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 id="github-stats">📊 GitHub Stats</h2>
 
 <div align="center">
   <table>
@@ -744,7 +744,7 @@
 
 ---
 
-## 🌍 Languages
+<h2 id="languages">🌍 Languages</h2>
 
 <div align="center">
 
@@ -778,7 +778,7 @@
 
 ---
 
-## 📫 Connect with Me
+<h2 id="connect-with-me">📫 Connect with Me</h2>
 
 <div align="center">
 
@@ -794,9 +794,7 @@
 
 ---
 
-## 📝 References
-
-<div align="center">
+<h2 id="references">📝 References</h2>
 
 <table>
   <tr>
