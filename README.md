@@ -792,6 +792,8 @@
   <sub>Open to product conversations, collaboration, and interesting problems.</sub>
 </p>
 
+</div>
+
 ---
 
 <h2 id="references">📝 References</h2>
