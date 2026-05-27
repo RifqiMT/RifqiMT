@@ -644,6 +644,20 @@
       <a href="https://github.com/RifqiMT/gdpr-qa-platform" target="_blank" rel="noopener noreferrer">🔗 GitHub repository</a><br/>
       <a href="https://rifqi-tjahyono.com/%f0%9f%8c%8a-gdpr-tab-tsunami-to-single-click-sanity-from-tab-overload-to-compliance-superpowers-%f0%9f%8f%86%e2%9c%a8/" target="_blank" rel="noopener noreferrer">📝 Read article</a>
     </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://pm-prioritization-tool-six.vercel.app/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/📊%20PM%20Prioritization%20Platform-Live%20App-0A66C2?style=for-the-badge" />
+        </a>
+      </div>
+      <br/>
+      <b>PM Prioritization Platform</b><br/>
+      A product decision-making workspace that helps teams assess effort and impact to prioritize initiatives with more clarity and confidence.<br/><br/>
+      <span>📊 Prioritize • 🧭 Align • 🚀 Execute</span><br/><br/>
+      <a href="https://pm-prioritization-tool-six.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Open live app</a><br/>
+      <a href="https://github.com/RifqiMT/pm-prioritization-tool" target="_blank" rel="noopener noreferrer">🔗 GitHub repository</a><br/>
+      <a href="https://rifqi-tjahyono.com/%f0%9f%93%8a-effort-impact-confusion-to-clear-cut-priorities-replace-tab-hopping-with-visual-roadmap-sanity-%f0%9f%a7%ad%e2%9c%a8/" target="_blank" rel="noopener noreferrer">📝 Read article</a>
+    </td>
   </tr>
 </table>
 
